@@ -42,8 +42,7 @@
     "execa": "^5.1.1",
     "ffmpeg-for-homebridge": "^0.0.9",
     "pick-port": "^1.0.0",
-    "rxjs": "^7.3.0",
-    "systeminformation": "^5.8.0"
+    "rxjs": "^7.3.0"
   },
   "devDependencies": {
     "@types/jest": "^26.0.24",
